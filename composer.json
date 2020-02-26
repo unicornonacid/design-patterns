@@ -1,0 +1,23 @@
+{
+    "name": "unicornonacid/design-patterns",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Michał Matusiak",
+            "email": "m@unicornonacid.com"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "7.4.3"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
