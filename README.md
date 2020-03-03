@@ -8,3 +8,6 @@ Observer is a behavioral design pattern that lets you define a subscription mech
 
 ## Decorator
 Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+
+## Factory Method
+Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
