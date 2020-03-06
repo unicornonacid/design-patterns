@@ -13,5 +13,8 @@ Decorator is a structural design pattern that lets you attach new behaviors to o
 Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 
 ## Abstract Factory
-
 Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
+
+## Command
+Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you parameterize methods with different requests, delay or queue a request’s execution, and support undoable operations.
+
