@@ -18,3 +18,5 @@ Abstract Factory is a creational design pattern that lets you produce families o
 ## Command
 Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you parameterize methods with different requests, delay or queue a request’s execution, and support undoable operations.
 
+## Adapter
+Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
