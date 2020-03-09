@@ -20,3 +20,6 @@ Command is a behavioral design pattern that turns a request into a stand-alone o
 
 ## Adapter
 Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+
+## Facade
+Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
