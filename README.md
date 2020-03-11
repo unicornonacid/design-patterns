@@ -26,3 +26,6 @@ Facade is a structural design pattern that provides a simplified interface to a 
 
 ## Proxy
 Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
+
+## Bridge
+Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
