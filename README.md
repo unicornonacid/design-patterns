@@ -29,3 +29,6 @@ Proxy is a structural design pattern that lets you provide a substitute or place
 
 ## Bridge
 Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
+
+## Template Method
+Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
