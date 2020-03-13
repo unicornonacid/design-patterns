@@ -32,3 +32,6 @@ Bridge is a structural design pattern that lets you split a large class or a set
 
 ## Template Method
 Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
+
+## Composite
+Composite is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
