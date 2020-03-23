@@ -38,3 +38,6 @@ Composite is a structural design pattern that lets you compose objects into tree
 
 ## Iterator
 Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
+
+## State
+State is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class.
