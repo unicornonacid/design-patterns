@@ -41,3 +41,6 @@ Iterator is a behavioral design pattern that lets you traverse elements of a col
 
 ## State
 State is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class.
+
+## Null Object
+The intent of a Null Object is to encapsulate the absence of an object by providing a substitutable alternative that offers suitable default do nothing behavior.
